@@ -5,5 +5,3 @@ build/
 tmp/
 temp/
 .env
-.aja
-package.json
